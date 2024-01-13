@@ -1,0 +1,8 @@
+telebot: Для работы с Telegram API.
+pip install pyTelegramBotAPI
+
+requests: Для выполнения HTTP-запросов.
+pip install requests
+
+googletrans: Для перевода текста.
+pip install googletrans==4.0.0-rc1
